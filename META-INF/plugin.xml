@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<idea-plugin version="2">
+  <id>cat</id>
+  <name>Code Analysis Tools</name>
+  <description>Code Analysis Tools</description>
+  <version>1.0</version>
+
+  <project-components>
+    <component>
+      <implementation-class>com.metalogic.cat.CodeAnalysisToolsPlugin</implementation-class>
+      <interface-class>com.metalogic.cat.CodeAnalysisToolsPlugin</interface-class>
+    </component>
+  </project-components>
+</idea-plugin>
